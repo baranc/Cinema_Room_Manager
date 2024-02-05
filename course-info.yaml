@@ -1,0 +1,13 @@
+type: hyperskill
+title: Cinema Room Manager
+language: English
+summary: "<p>Build a program that helps you automate cinema management. To achieve\
+  \ these functionalities, you will engage with key Java concepts. This includes working\
+  \ with input and output, handling arrays and strings, and using loops and conditional\
+  \ statements.</p><br/><br/>Learn more at <a href=\"https://hyperskill.org/projects/133?utm_source=ide&utm_medium=ide&utm_campaign=ide&utm_content=project-card\"\
+  >https://hyperskill.org/projects/133</a>"
+programming_language: Java
+programming_language_version: 11
+content:
+  - Cinema Room Manager
+mode: Study
